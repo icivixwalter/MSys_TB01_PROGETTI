@@ -1,0 +1,56 @@
+
+7-Zip 24.05 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-05-14
+
+Scanning the drive for archives:
+  0M Scan c:\CASA\LINGUAGGI\ACCESS\PROG . s_TB01_PROGETTI\AA_SALVATAGGI\                                                                        1 file, 5459409 bytes (5332 KiB)
+
+Listing archive: c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_TB01_PROGETTI\AA_SALVATAGGI\2026_11_15_ZIP_SALVATAGGI_MSys_TB01_PROGETTI.zip
+
+--
+Path = c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_TB01_PROGETTI\AA_SALVATAGGI\2026_11_15_ZIP_SALVATAGGI_MSys_TB01_PROGETTI.zip
+Type = zip
+Physical Size = 5459409
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2026-11-07 18:13:33 ....A          312          130  AA__________________________________________________________________________AA.txt
+2026-11-14 23:21:00 ....A        10426         3443  git_CANCELLA_TUTTI_I_DATI_IN_GITHUB.BAT
+2026-11-06 17:53:43 ....A          880          528  git_COMMIT.BAT
+2026-11-14 23:20:59 ....A         4915         1855  git_CREATE_GITHUB.BAT
+2026-11-07 17:50:46 ....A         5432         2011  git_CREA_SALVATAGGIO.BAT
+2026-11-15 20:16:02 ....A        26746         3236  git_LOG.txt
+2026-11-14 23:20:57 ....A           94           94  git_OpenGitHub.bat
+2026-11-06 17:53:43 ....A          925          448  git_OPEN_OVERLEAF.BAT
+2026-11-14 23:20:56 ....A         5353         1869  git_PULL.BAT
+2026-11-06 17:53:43 ....A          473          307  git_PUSH.BAT
+2026-11-14 23:20:55 ....A        14968         4638  git_RICOSTRUISCI_GITHUB.BAT
+2026-11-14 23:20:10 ....A        10754         3372  git_STATUS+PULL+ADD+COMMIT+PUSH.BAT
+2026-11-06 17:53:43 ....A          280          207  git_STATUS.BAT
+2026-11-15 20:10:37 D....            0            0  MASTER_PLAN
+2026-11-15 20:10:37 ....A        35193         9360  MASTER_PLAN\MSys_TB01_00_MASTER_PLAN.html
+2026-11-15 20:10:36 ....A        22375         7153  MASTER_PLAN\MSys_TB01_00_MASTER_PLAN.md
+2026-11-15 20:10:36 D....            0            0  MASTER_PLAN\STRUMENTI
+2026-11-15 20:10:36 ....A         1075          510  MASTER_PLAN\STRUMENTI\GENERA_HTML.bat
+2026-11-15 20:10:36 ....A         8645         3260  MASTER_PLAN\STRUMENTI\md2html.py
+2026-11-15 20:08:32 D....            0            0  MDB
+2026-08-07 16:13:49 ....A          312          130  MDB\AA__________________________________________________________________________AA.txt
+2026-11-15 19:53:41 ....A     17948672      2692702  MDB\GE_Msys_TB01_PROGETTI.mdb
+2026-11-15 19:54:03 ....A      4558848      1201481  MDB\Msys_TB01_PROGETTI.mdb
+2026-08-14 17:21:06 ....A      2584576       590313  MDB\Msys_TB02_TIPO_OGGETTI.MDB
+2026-11-15 20:05:01 ....A      3600384       905105  MDB\Msys_TB03_ELENCO_ObjProgetti.mdb
+2026-11-07 18:13:33 ....A           23           23  MSYS_N02________________________________________________________________MSYS.txt
+2026-11-14 23:18:17 ....A           55           55  Project_MSYS_TB01_PROGETTI.sublime-project
+2026-11-15 20:15:24 ....A        20104         3669  Project_MSYS_TB01_PROGETTI.sublime-workspace
+2026-11-14 23:23:23 ....A           22           22  README.md
+2026-11-14 23:20:54 ....A        58344         5783  README_MSYS_TB01_PROGETTI.md
+2026-11-14 23:20:52 ....A        27450         5792  ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT
+2026-11-07 18:13:33 ....A           56           51  ZIP_7ZIP_________________________________________________________________ZZ.txt
+2026-11-08 19:47:47 ....A         4193         1358  Zip_N70_CREA_ElencoFile.bat
+2026-11-07 18:13:33 ....A         4220         1364  Zip_N70_CRIPTA.bat
+2026-11-07 18:13:33 ....A         4775         1474  Zip_N70_DECODIFICA.bat
+2026-11-15 20:15:28 ....A         1293          482  Zip_N70_ElencoFile.txt
+2026-11-07 18:13:33 ....A          167           85  Zip_N70_ElencoFileESCLUSI.txt
+2026-11-07 18:13:33 ....A            0            0  Zip_N70____________________________________________CRIPTA_DECODIFICA.txt
+2026-11-07 18:13:33 ....A           56           51  ZZ________________________________________________________________________ZZ.txt
+------------------- ----- ------------ ------------  ------------------------
+2026-11-15 20:16:02           28962396      5452361  36 files, 3 folders

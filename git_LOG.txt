@@ -666,3 +666,74 @@ C:/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_TB01_PROGETTI
 
 === 2a) ADD di tutte le modifiche   [20:15:53]
     COMANDO: git add -A
+warning: in the working copy of 'Project_MSYS_TB01_PROGETTI.sublime-workspace', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_LOG.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'MASTER_PLAN/MSys_TB01_00_MASTER_PLAN.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'MASTER_PLAN/STRUMENTI/md2html.py', LF will be replaced by CRLF the next time Git touches it
+    ESITO: OK
+
+=== 2b) COMMIT   [20:15:54]
+    COMANDO: git commit -m "2026_11_15_H20_M15_S53_aggiornamento_MSYS"
+[main 9283b34] 2026_11_15_H20_M15_S53_aggiornamento_MSYS
+ 16 files changed, 881 insertions(+), 79 deletions(-)
+ create mode 100644 AA_SALVATAGGI/2026_11_14_ZIP_SALVATAGGI_MSys_TB01_PROGETTI.GE614
+ create mode 100644 AA_SALVATAGGI/2026_11_14_ZIP_SALVATAGGI_MSys_TB01_PROGETTI_LISTA.TXT
+ create mode 100644 MASTER_PLAN/MSys_TB01_00_MASTER_PLAN.html
+ create mode 100644 MASTER_PLAN/MSys_TB01_00_MASTER_PLAN.md
+ create mode 100644 MASTER_PLAN/STRUMENTI/GENERA_HTML.bat
+ create mode 100644 MASTER_PLAN/STRUMENTI/md2html.py
+ create mode 100644 MDB/AA__________________________________________________________________________AA.txt
+ create mode 100644 MDB/GE_Msys_TB01_PROGETTI.mdb
+ create mode 100644 MDB/Msys_TB01_PROGETTI.mdb
+ create mode 100644 MDB/Msys_TB02_TIPO_OGGETTI.MDB
+ create mode 100644 MDB/Msys_TB03_ELENCO_ObjProgetti.mdb
+    ESITO: OK
+
+=== 2c) CONTROLLO MAIN SVUOTATO su GitHub   [20:15:54]
+    COMANDO: git fetch origin
+    ESITO: OK
+
+=== 3) PULL da GitHub   [20:15:55]
+    COMANDO: git pull --no-edit
+Already up to date.
+    ESITO: OK
+
+=== 4) PUSH su GitHub   [20:15:56]
+    COMANDO: git push
+To https://github.com/icivixwalter/MSys_TB01_PROGETTI.git
+   b29acef..9283b34  main -> main
+    ESITO: OK
+
+=== 5) STATO FINALE   [20:16:02]
+    COMANDO: git status -sb
+## main...origin/main
+ M ZIP_7ZIP_INCREMENTALE_FILE_LOG.TXT
+ M git_LOG.txt
+    ESITO: OK
+
+################################################################
+### ESITO FINALE: TUTTO OK - repository allineato con GitHub
+### FINE  15/11/2026  20:16:02
+################################################################
+
+################################################################
+### INIZIO  15/11/2026  21:02:33
+### PC: HPGIACOMO   UTENTE: giaco
+### REPOSITORY: C:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_TB01_PROGETTI
+################################################################
+
+=== 0) CONTROLLO REPOSITORY   [21:02:33]
+    COMANDO: git rev-parse --show-toplevel
+C:/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_TB01_PROGETTI
+    ESITO: OK
+
+=== 1) STATUS   [21:02:34]
+    COMANDO: git status -s
+ M ZIP_7ZIP_INCREMENTALE_FILE_LOG.TXT
+ M git_LOG.txt
+?? AA_SALVATAGGI/2026_11_15_ZIP_SALVATAGGI_MSys_TB01_PROGETTI.GE614
+?? AA_SALVATAGGI/2026_11_15_ZIP_SALVATAGGI_MSys_TB01_PROGETTI_LISTA.TXT
+    ESITO: OK
+
+=== 2a) ADD di tutte le modifiche   [21:02:34]
+    COMANDO: git add -A
