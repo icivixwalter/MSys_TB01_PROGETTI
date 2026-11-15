@@ -36,6 +36,17 @@
 				"buffer_size": 91,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "Zip_N70_ElencoFile.txt",
+			"file_size": 1282,
+			"file_write_time": 134391685925227054,
+			"settings":
+			{
+				"buffer_size": 1249,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -333,7 +344,6 @@
 				{
 					"buffer": 0,
 					"file": "git_OpenGitHub.bat",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -351,6 +361,36 @@
 						"settings":
 						{
 							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Zip_N70_ElencoFile.txt",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

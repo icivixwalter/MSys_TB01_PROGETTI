@@ -19,6 +19,7 @@ MDB\
 MSYS_N02________________________________________________________________MSYS.txt
 Project_MSYS_TB01_PROGETTI.sublime-project
 Project_MSYS_TB01_PROGETTI.sublime-workspace
+README.md
 README_MSYS_TB01_PROGETTI.md
 ZIP_7ZIP_________________________________________________________________ZZ.txt
 ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT
