@@ -917,3 +917,59 @@ C:/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_TB01_PROGETTI
 
 === 2a) ADD di tutte le modifiche   [17:31:45]
     COMANDO: git add -A
+warning: in the working copy of 'git_LOG.txt', LF will be replaced by CRLF the next time Git touches it
+    ESITO: OK
+
+=== 2b) COMMIT   [17:31:45]
+    COMANDO: git commit -m "2026_11_17_H17_M31_S45_aggiornamento_MSYS"
+[main c7934c3] 2026_11_17_H17_M31_S45_aggiornamento_MSYS
+ 1 file changed, 56 insertions(+)
+    ESITO: OK
+
+=== 2c) CONTROLLO MAIN SVUOTATO su GitHub   [17:31:46]
+    COMANDO: git fetch origin
+    ESITO: OK
+
+=== 3) PULL da GitHub   [17:31:47]
+    COMANDO: git pull --no-edit
+Already up to date.
+    ESITO: OK
+
+=== 4) PUSH su GitHub   [17:31:48]
+    COMANDO: git push
+To https://github.com/icivixwalter/MSys_TB01_PROGETTI.git
+   c1d5cf8..c7934c3  main -> main
+    ESITO: OK
+
+=== 5) STATO FINALE   [17:31:51]
+    COMANDO: git status -sb
+## main...origin/main
+ M git_LOG.txt
+    ESITO: OK
+
+################################################################
+### ESITO FINALE: TUTTO OK - repository allineato con GitHub
+### FINE  17/11/2026  17:31:51
+################################################################
+
+################################################################
+### INIZIO  18/11/2026  22:00:31
+### PC: HPGIACOMO   UTENTE: giaco
+### REPOSITORY: C:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_TB01_PROGETTI
+################################################################
+
+=== 0) CONTROLLO REPOSITORY   [22:00:31]
+    COMANDO: git rev-parse --show-toplevel
+C:/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_TB01_PROGETTI
+    ESITO: OK
+
+=== 0b) PROTEZIONE .gitignore - resta sul PC e negli zip, MAI su GitHub   [22:00:32]
+    .gitignore escluso da git: OK
+
+=== 1) STATUS   [22:00:32]
+    COMANDO: git status -s
+ M git_LOG.txt
+    ESITO: OK
+
+=== 2a) ADD di tutte le modifiche   [22:00:32]
+    COMANDO: git add -A
